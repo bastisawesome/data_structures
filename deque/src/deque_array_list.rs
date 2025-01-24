@@ -1,5 +1,3 @@
-use std::{array, ops::Sub};
-
 // Copyright (C) 2025 BastIsAwesome (bastisawesomeltd@gmail.com)
 //
 // This file is part of deque.
